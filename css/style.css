@@ -1,0 +1,14 @@
+/*Clock*/
+
+.clock {
+  font-size: 50px;
+  color:blue;
+  border:1px solid blue;
+  text-align: center;
+}
+textarea{
+  max-width: 500px;
+  max-height:300px;
+  min-width: 200px;
+  min-height:200px;
+}
